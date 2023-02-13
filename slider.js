@@ -118,7 +118,7 @@ function initSlider(options) {
 let sliderOptions = {
   dots: true,
   titles: true,
-  autoplay: true,
+  autoplay: false,
   autoplayInterval: 5000
 };
 
